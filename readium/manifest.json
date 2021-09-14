@@ -1,0 +1,526 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Rozmarné léto",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Vladislav Vančura",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2021-09-14T14:22:28.381Z",
+    "description": "Městská knihovna v Praze",
+    "subject": "subject",
+    "generator": "Adobe InDesign",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/rozmarne_leto_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/rozmarne_leto_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/rozmarne_leto_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/rozmarne_leto_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/rozmarne_leto_006.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/rozmarne_l_idstyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image003_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image004_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_rozmarne_leto2_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy_fmt.jpeg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Staré časy",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-1"
+    },
+    {
+      "title": "Lázeňské místo Krokovy Vary",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-2"
+    },
+    {
+      "title": "Čas",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-3"
+    },
+    {
+      "title": "Stáří a poloha ústavu Antonína Důry",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-4"
+    },
+    {
+      "title": "Antonín Důra",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-5"
+    },
+    {
+      "title": "Věci soudobé a kněz",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-6"
+    },
+    {
+      "title": "Vojín Hugo",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-7"
+    },
+    {
+      "title": "Pozorování povětrnosti",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-8"
+    },
+    {
+      "title": "Jiné rozhovory",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-9"
+    },
+    {
+      "title": "Hana soubojů",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-10"
+    },
+    {
+      "title": "Zápletka",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-11"
+    },
+    {
+      "title": "Vzpomínka panina",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-12"
+    },
+    {
+      "title": "Zevrubnost a obšírnost (na radu kritiků)",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-13"
+    },
+    {
+      "title": "Rozhodnost a čin",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-14"
+    },
+    {
+      "title": "Láhev a tažení italské",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-15"
+    },
+    {
+      "title": "Napomenutí",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-16"
+    },
+    {
+      "title": "Námluvy",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-17"
+    },
+    {
+      "title": "Cesta ctnosti",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-18"
+    },
+    {
+      "title": "Nové námluvy",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-19"
+    },
+    {
+      "title": "Přívětivý plavčík",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-20"
+    },
+    {
+      "title": "Výstraha",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-21"
+    },
+    {
+      "title": "Kouzelník Arnoštek",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-22"
+    },
+    {
+      "title": "Kouzelníkův zevnějšek",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-23"
+    },
+    {
+      "title": "Nevýřeční profesoři",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-24"
+    },
+    {
+      "title": "Géniové málo sliční",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-25"
+    },
+    {
+      "title": "Rozprava kouzelníkova s paní Důrovou",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-26"
+    },
+    {
+      "title": "Malá ukázka Arnoštkova umění",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-27"
+    },
+    {
+      "title": "Nemírný obdiv",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-28"
+    },
+    {
+      "title": "Uznání majorovo",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-29"
+    },
+    {
+      "title": "Cizina nenávistná",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-30"
+    },
+    {
+      "title": "Plynoucí čas",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-31"
+    },
+    {
+      "title": "Příměř",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-32"
+    },
+    {
+      "title": "Soumrak a večer",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-33"
+    },
+    {
+      "title": "Výčet jídel",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-34"
+    },
+    {
+      "title": "Má satan vidle?",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-35"
+    },
+    {
+      "title": "Úvaha o kouzelnících",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-36"
+    },
+    {
+      "title": "Začněte!",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-37"
+    },
+    {
+      "title": "Výběrčí",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-38"
+    },
+    {
+      "title": "Společenské poklesky",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-39"
+    },
+    {
+      "title": "Veliký bubeník",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-40"
+    },
+    {
+      "title": "Strašné umění",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-41"
+    },
+    {
+      "title": "Plané podezřívání a domluva",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-42"
+    },
+    {
+      "title": "Mistr se chystá na hlídku",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-43"
+    },
+    {
+      "title": "Stížnosti Kateřininy",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-44"
+    },
+    {
+      "title": "Neklidné snění",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-45"
+    },
+    {
+      "title": "Dům a zvyky Antonínovy",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-46"
+    },
+    {
+      "title": "Kletba",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-47"
+    },
+    {
+      "title": "Mohutná léta devadesátá",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-48"
+    },
+    {
+      "title": "Věčná chvíle",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-49"
+    },
+    {
+      "title": "Tak vida!",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-50"
+    },
+    {
+      "title": "Zmoudřete!",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-51"
+    },
+    {
+      "title": "Dosti",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-52"
+    },
+    {
+      "title": "Horlivost",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-53"
+    },
+    {
+      "title": "Kdo to byl?",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-54"
+    },
+    {
+      "title": "Hra s krupkami",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-55"
+    },
+    {
+      "title": "Zelený vůz",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-56"
+    },
+    {
+      "title": "Střezte se strážníků!",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-57"
+    },
+    {
+      "title": "Zpěv",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-58"
+    },
+    {
+      "title": "Jasná obloha",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-59"
+    },
+    {
+      "title": "Dobré mravy",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-60"
+    },
+    {
+      "title": "Děvče s cínovým talířem",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-61"
+    },
+    {
+      "title": "Záhadná hudba",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-62"
+    },
+    {
+      "title": "Druhé představení",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-63"
+    },
+    {
+      "title": "Sklenice dešťů",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-64"
+    },
+    {
+      "title": "Rozmanitý způsob zábavy",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-65"
+    },
+    {
+      "title": "Hovor noční",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-66"
+    },
+    {
+      "title": "U Zelené panny",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-67"
+    },
+    {
+      "title": "Bitka u zeleného vozu",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-68"
+    },
+    {
+      "title": "Rozšafný biskup",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-69"
+    },
+    {
+      "title": "Naučení, jež čerpáme z knih a z rozhovorů",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-70"
+    },
+    {
+      "title": "Hněv",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-71"
+    },
+    {
+      "title": "Ranhojičský zákrok",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-72"
+    },
+    {
+      "title": "Divné mínění o šrůtkách",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-73"
+    },
+    {
+      "title": "Okoun",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-74"
+    },
+    {
+      "title": "Zlořečení literatuře",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-75"
+    },
+    {
+      "title": "Přiznání kanovníkovo",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-76"
+    },
+    {
+      "title": "Vnitřek vozu",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-77"
+    },
+    {
+      "title": "Ženské vždycky stejné",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-78"
+    },
+    {
+      "title": "Nepohoda",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-79"
+    },
+    {
+      "title": "Obrácení Antonínovo",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-80"
+    },
+    {
+      "title": "Úvaha o Anně",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-81"
+    },
+    {
+      "title": "Víno a nesmysly Jak se to dělá",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-82"
+    },
+    {
+      "title": "Špatná návštěva",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-83"
+    },
+    {
+      "title": "Představení třetí",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-84"
+    },
+    {
+      "title": "Nenasytní divákové",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-85"
+    },
+    {
+      "title": "Zvyk má železnou košili",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-86"
+    },
+    {
+      "title": "Kouzelník přemohl bolest",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-87"
+    },
+    {
+      "title": "Shon podobný shonu u mrtvoly",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-88"
+    },
+    {
+      "title": "Hlas rozumu",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-89"
+    },
+    {
+      "title": "Prostá srdce",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-90"
+    },
+    {
+      "title": "Návrat do města",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-91"
+    },
+    {
+      "title": "Annina rada",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-92"
+    },
+    {
+      "title": "Odpověď",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-93"
+    },
+    {
+      "title": "Arnoštek nebyl překonán",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-94"
+    },
+    {
+      "title": "Annino odění",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-95"
+    },
+    {
+      "title": "Zvrácený vkus",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-96"
+    },
+    {
+      "title": "Zasmušilí měšťané",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-97"
+    },
+    {
+      "title": "Dobré divadlo",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-98"
+    },
+    {
+      "title": "Poctivý úžas",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-99"
+    },
+    {
+      "title": "Tak se to sluší",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-100"
+    },
+    {
+      "title": "Kořeny umění hereckého",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-101"
+    },
+    {
+      "title": "Příhoda s rukávem",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-102"
+    },
+    {
+      "title": "Mistr a Kateřina",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-103"
+    },
+    {
+      "title": "Rozmrzelý kouzelník",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-104"
+    },
+    {
+      "title": "Výprava",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-105"
+    },
+    {
+      "title": "Souboj",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-106"
+    },
+    {
+      "title": "Pravá přátelství",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-107"
+    },
+    {
+      "title": "Epizoda o smiřlivých a přísných lidech",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-108"
+    },
+    {
+      "title": "Epizoda se končí",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-109"
+    },
+    {
+      "title": "Další rozprava",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-110"
+    },
+    {
+      "title": "Věci nevídané",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-111"
+    },
+    {
+      "title": "Vše uplývá",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-112"
+    },
+    {
+      "title": "Co se Kateřině líbí a co odsuzuje",
+      "href": "OEBPS/Text/rozmarne_leto_005.xhtml#toc_marker-113"
+    }
+  ]
+}
