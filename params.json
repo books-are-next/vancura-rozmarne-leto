@@ -5,7 +5,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Vladislav Vančura",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-09-14T14:22:28.381Z"
+      "modified": "2021-09-22T07:20:43.310Z"
     },
     "chapters": [
       {
@@ -106,6 +106,6 @@
       "user": "books-are-next",
       "repo": "vancura-rozmarne-leto"
     },
-    "generatedAt": 1631629348701
+    "generatedAt": 1632295243782
   }
 }
