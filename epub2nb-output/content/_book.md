@@ -2,7 +2,7 @@
 outputs: meta
 slug: book
 languageCode: en
-chapters: []
+readingOrder: []
 tocBase: null
 static:
   - style
@@ -10,5 +10,6 @@ static:
   - title
   - fonts
   - resources
+  - template-images
   - favicon.png
 ---
