@@ -1,8 +1,9 @@
 ---
-subtitle: Staré časy
 hiddenTitle: true
 contentType: prose
 ---
+
+Staré časy
 
   
 
