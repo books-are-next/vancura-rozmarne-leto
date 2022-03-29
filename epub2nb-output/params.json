@@ -1,11 +1,111 @@
 {
+  "params": {
+    "metadata": {
+      "title": "Rozmarné léto",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Vladislav Vančura",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-12-01T21:20:09.509Z",
+      "publisherShort": "mkp",
+      "edition": "beletrie",
+      "languageCode": "cs"
+    },
+    "elements": {
+      "title": "",
+      "subtitle": "MLP-uroven3-nadpis",
+      "h2": "",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP-text-bez1radku MLP-text-bez1radku--0-12 MLP-text-bez1radku--12-0",
+      "brAfter": "",
+      "blockquote": "",
+      "figure": "",
+      "em": "MLP-verse--12-12 MLP-znak-kurziva-11b",
+      "strong": "MLP-tiraz-autor-a-nazev ",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "rozmarne_leto_001.md",
+            "xhtml": "rozmarne_leto_001.xhtml",
+            "id": 0,
+            "role": "cover",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "rozmarne_leto_002.md",
+            "xhtml": "rozmarne_leto_002.xhtml",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "rozmarne_leto_003.md",
+            "xhtml": "rozmarne_leto_003.xhtml",
+            "id": 2,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "rozmarne_leto_004.md",
+            "xhtml": "rozmarne_leto_004.xhtml",
+            "id": 3,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "rozmarne_leto_005.md",
+            "xhtml": "rozmarne_leto_005.xhtml",
+            "title": "Kapitoly",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": true,
+            "children": []
+          },
+          {
+            "filename": "rozmarne_leto_006.md",
+            "xhtml": "rozmarne_leto_006.xhtml",
+            "id": 5,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
   "epub": {
     "metadata": {
       "title": "Rozmarné léto",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Vladislav Vančura",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-01T21:20:09.509Z"
+      "modified": "2021-01-07T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -34,7 +134,7 @@
       },
       {
         "titleSuggest": "",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "Staré časy",
         "filename": "rozmarne_leto_005.md",
         "xhtml": "rozmarne_leto_005.xhtml"
       },
@@ -106,6 +206,6 @@
       "user": "books-are-next",
       "repo": "vancura-rozmarne-leto"
     },
-    "generatedAt": 1638393609872
+    "generatedAt": 1648547406561
   }
 }

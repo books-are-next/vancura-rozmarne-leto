@@ -1,0 +1,89 @@
+{
+  "author": "Vladislav Vančura",
+  "edition": "beletrie",
+  "identifier": "vancura-rozmarne-leto-6452c23",
+  "languagecode": "cs",
+  "modified": "2021-12-01T21:20:09.509Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Rozmarné léto",
+  "revision": "6452c23",
+  "generatedAt": {
+    "date": "Tue Mar 29 2022 09:51:17 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1648547477660
+  },
+  "documents": [
+    {
+      "title": "Rozmarné léto",
+      "file": "rozmarne_leto_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "rozmarne_leto_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rozmarné léto",
+      "file": "rozmarne_leto_005.html",
+      "words": 18303,
+      "chars": 111823,
+      "ideas": 707,
+      "role": "chapter",
+      "order": 1,
+      "prev": "rozmarne_leto_002.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Rozmarné léto",
+      "file": "colophon.html",
+      "words": 131,
+      "chars": 882,
+      "ideas": 21,
+      "role": "colophon",
+      "order": null,
+      "prev": "rozmarne_leto_005.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 18440,
+      "chars": 112746,
+      "ideas": 732
+    },
+    "chapters": {
+      "words": 18303,
+      "chars": 111823,
+      "ideas": 707
+    }
+  }
+}
