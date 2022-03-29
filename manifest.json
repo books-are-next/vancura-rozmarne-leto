@@ -1,16 +1,17 @@
 {
   "author": "Vladislav Vančura",
+  "contenttype": "prose",
   "edition": "beletrie",
-  "identifier": "vancura-rozmarne-leto-6452c23",
+  "identifier": "vancura-rozmarne-leto-24bf6bb",
   "languagecode": "cs",
   "modified": "2021-12-01T21:20:09.509Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Rozmarné léto",
-  "revision": "6452c23",
+  "revision": "24bf6bb",
   "generatedAt": {
-    "date": "Tue Mar 29 2022 09:51:17 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1648547477660
+    "date": "Tue Mar 29 2022 09:56:13 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1648547773930
   },
   "documents": [
     {
@@ -36,9 +37,9 @@
     {
       "title": "Rozmarné léto",
       "file": "rozmarne_leto_005.html",
-      "words": 18303,
-      "chars": 111823,
-      "ideas": 707,
+      "words": 18305,
+      "chars": 111833,
+      "ideas": 708,
       "role": "chapter",
       "order": 1,
       "prev": "rozmarne_leto_002.html",
@@ -76,14 +77,14 @@
   ],
   "totals": {
     "all": {
-      "words": 18440,
-      "chars": 112746,
-      "ideas": 732
+      "words": 18442,
+      "chars": 112756,
+      "ideas": 733
     },
     "chapters": {
-      "words": 18303,
-      "chars": 111823,
-      "ideas": 707
+      "words": 18305,
+      "chars": 111833,
+      "ideas": 708
     }
   }
 }

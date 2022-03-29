@@ -4,6 +4,8 @@ slug: book
 contentType: prose
 languageCode: cs
 meta:
+  languageCode: cs
+  contentType: prose
   title: Rozmarné léto
   identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
   author: Vladislav Vančura
@@ -11,7 +13,6 @@ meta:
   modified: '2021-12-01T21:20:09.509Z'
   publisherShort: mkp
   edition: beletrie
-  languageCode: cs
 readingOrder:
   - rozmarne_leto_002.html
   - rozmarne_leto_005.html
@@ -23,6 +24,7 @@ tocBase:
         title: Kapitoly
         hiddenTitle: true
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
