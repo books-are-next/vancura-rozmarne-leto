@@ -2,16 +2,16 @@
   "author": "Vladislav Vančura",
   "contenttype": "prose",
   "edition": "beletrie",
-  "identifier": "vancura-rozmarne-leto-24bf6bb",
+  "identifier": "vancura-rozmarne-leto-32a26a0",
   "languagecode": "cs",
   "modified": "2021-12-01T21:20:09.509Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Rozmarné léto",
-  "revision": "24bf6bb",
+  "revision": "32a26a0",
   "generatedAt": {
-    "date": "Tue Mar 29 2022 09:56:13 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1648547773930
+    "date": "Tue Mar 29 2022 10:09:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1648548571458
   },
   "documents": [
     {
@@ -50,7 +50,799 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Staré časy",
+              "id": "staré-časy",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Lázeňské místo Krokovy Vary",
+              "id": "lázeňské-místo-krokovy-vary",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Čas",
+              "id": "čas",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Stáří a poloha ústavu Antonína Důry",
+              "id": "stáří-apoloha-ústavu-antonína-důry",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "Antonín Důra",
+              "id": "antonín-důra",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "Věci soudobé a kněz",
+              "id": "věci-soudobé-akněz",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "Vojín Hugo",
+              "id": "vojín-hugo",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "Pozorování povětrnosti",
+              "id": "pozorování-povětrnosti",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "Jiné rozhovory",
+              "id": "jiné-rozhovory",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "Hana soubojů",
+              "id": "hana-soubojů",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "Zápletka",
+              "id": "zápletka",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "Vzpomínka panina",
+              "id": "vzpomínka-panina",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "Zevrubnost a obšírnost (na radu kritiků)",
+              "id": "zevrubnost-aobšírnost-na-radu-kritiků",
+              "children": []
+            },
+            {
+              "index": 14,
+              "level": 2,
+              "name": "Rozhodnost a čin",
+              "id": "rozhodnost-ačin",
+              "children": []
+            },
+            {
+              "index": 15,
+              "level": 2,
+              "name": "Láhev a tažení italské",
+              "id": "láhev-atažení-italské",
+              "children": []
+            },
+            {
+              "index": 16,
+              "level": 2,
+              "name": "Napomenutí",
+              "id": "napomenutí",
+              "children": []
+            },
+            {
+              "index": 17,
+              "level": 2,
+              "name": "Námluvy",
+              "id": "námluvy",
+              "children": []
+            },
+            {
+              "index": 18,
+              "level": 2,
+              "name": "Cesta ctnosti",
+              "id": "cesta-ctnosti",
+              "children": []
+            },
+            {
+              "index": 19,
+              "level": 2,
+              "name": "Nové námluvy",
+              "id": "nové-námluvy",
+              "children": []
+            },
+            {
+              "index": 20,
+              "level": 2,
+              "name": "Přívětivý plavčík",
+              "id": "přívětivý-plavčík",
+              "children": []
+            },
+            {
+              "index": 21,
+              "level": 2,
+              "name": "Výstraha",
+              "id": "výstraha",
+              "children": []
+            },
+            {
+              "index": 22,
+              "level": 2,
+              "name": "Kouzelník Arnoštek",
+              "id": "kouzelník-arnoštek",
+              "children": []
+            },
+            {
+              "index": 23,
+              "level": 2,
+              "name": "Kouzelníkův zevnějšek",
+              "id": "kouzelníkův-zevnějšek",
+              "children": []
+            },
+            {
+              "index": 24,
+              "level": 2,
+              "name": "Nevýřeční profesoři",
+              "id": "nevýřeční-profesoři",
+              "children": []
+            },
+            {
+              "index": 25,
+              "level": 2,
+              "name": "Géniové málo sliční",
+              "id": "géniové-málo-sliční",
+              "children": []
+            },
+            {
+              "index": 26,
+              "level": 2,
+              "name": "Rozprava kouzelníkova s paní Důrovou",
+              "id": "rozprava-kouzelníkova-spaní-důrovou",
+              "children": []
+            },
+            {
+              "index": 27,
+              "level": 2,
+              "name": "Malá ukázka Arnoštkova umění",
+              "id": "malá-ukázka-arnoštkova-umění",
+              "children": []
+            },
+            {
+              "index": 28,
+              "level": 2,
+              "name": "Nemírný obdiv",
+              "id": "nemírný-obdiv",
+              "children": []
+            },
+            {
+              "index": 29,
+              "level": 2,
+              "name": "Uznání majorovo",
+              "id": "uznání-majorovo",
+              "children": []
+            },
+            {
+              "index": 30,
+              "level": 2,
+              "name": "Cizina nenávistná",
+              "id": "cizina-nenávistná",
+              "children": []
+            },
+            {
+              "index": 31,
+              "level": 2,
+              "name": "Plynoucí čas",
+              "id": "plynoucí-čas",
+              "children": []
+            },
+            {
+              "index": 32,
+              "level": 2,
+              "name": "Příměř",
+              "id": "příměř",
+              "children": []
+            },
+            {
+              "index": 33,
+              "level": 2,
+              "name": "Soumrak a večer",
+              "id": "soumrak-avečer",
+              "children": []
+            },
+            {
+              "index": 34,
+              "level": 2,
+              "name": "Výčet jídel",
+              "id": "výčet-jídel",
+              "children": []
+            },
+            {
+              "index": 35,
+              "level": 2,
+              "name": "Má satan vidle?",
+              "id": "mánbspsatan-vidle",
+              "children": []
+            },
+            {
+              "index": 36,
+              "level": 2,
+              "name": "Úvaha o kouzelnících",
+              "id": "úvaha-okouzelnících",
+              "children": []
+            },
+            {
+              "index": 37,
+              "level": 2,
+              "name": "Začněte!",
+              "id": "začněte",
+              "children": []
+            },
+            {
+              "index": 38,
+              "level": 2,
+              "name": "Výběrčí",
+              "id": "výběrčí",
+              "children": []
+            },
+            {
+              "index": 39,
+              "level": 2,
+              "name": "Společenské poklesky",
+              "id": "společenské-poklesky",
+              "children": []
+            },
+            {
+              "index": 40,
+              "level": 2,
+              "name": "Veliký bubeník",
+              "id": "veliký-bubeník",
+              "children": []
+            },
+            {
+              "index": 41,
+              "level": 2,
+              "name": "Strašné umění",
+              "id": "strašné-umění",
+              "children": []
+            },
+            {
+              "index": 42,
+              "level": 2,
+              "name": "Plané podezřívání a domluva",
+              "id": "plané-podezřívání-adomluva",
+              "children": []
+            },
+            {
+              "index": 43,
+              "level": 2,
+              "name": "Mistr se chystá na hlídku",
+              "id": "mistr-senbspchystá-nanbsphlídku",
+              "children": []
+            },
+            {
+              "index": 44,
+              "level": 2,
+              "name": "Stížnosti Kateřininy",
+              "id": "stížnosti-kateřininy",
+              "children": []
+            },
+            {
+              "index": 45,
+              "level": 2,
+              "name": "Neklidné snění",
+              "id": "neklidné-snění",
+              "children": []
+            },
+            {
+              "index": 46,
+              "level": 2,
+              "name": "Dům a zvyky Antonínovy",
+              "id": "dům-azvyky-antonínovy",
+              "children": []
+            },
+            {
+              "index": 47,
+              "level": 2,
+              "name": "Kletba",
+              "id": "kletba",
+              "children": []
+            },
+            {
+              "index": 48,
+              "level": 2,
+              "name": "Mohutná léta devadesátá",
+              "id": "mohutná-léta-devadesátá",
+              "children": []
+            },
+            {
+              "index": 49,
+              "level": 2,
+              "name": "Věčná chvíle",
+              "id": "věčná-chvíle",
+              "children": []
+            },
+            {
+              "index": 50,
+              "level": 2,
+              "name": "Tak vida!",
+              "id": "tak-vida",
+              "children": []
+            },
+            {
+              "index": 51,
+              "level": 2,
+              "name": "Zmoudřete!",
+              "id": "zmoudřete",
+              "children": []
+            },
+            {
+              "index": 52,
+              "level": 2,
+              "name": "Dosti",
+              "id": "dosti",
+              "children": []
+            },
+            {
+              "index": 53,
+              "level": 2,
+              "name": "Horlivost",
+              "id": "horlivost",
+              "children": []
+            },
+            {
+              "index": 54,
+              "level": 2,
+              "name": "Kdo to byl?",
+              "id": "kdo-tonbspbyl",
+              "children": []
+            },
+            {
+              "index": 55,
+              "level": 2,
+              "name": "Hra s krupkami",
+              "id": "hra-skrupkami",
+              "children": []
+            },
+            {
+              "index": 56,
+              "level": 2,
+              "name": "Zelený vůz",
+              "id": "zelený-vůz",
+              "children": []
+            },
+            {
+              "index": 57,
+              "level": 2,
+              "name": "Střezte se strážníků!",
+              "id": "střezte-senbspstrážníků",
+              "children": []
+            },
+            {
+              "index": 58,
+              "level": 2,
+              "name": "Zpěv",
+              "id": "zpěv",
+              "children": []
+            },
+            {
+              "index": 59,
+              "level": 2,
+              "name": "Jasná obloha",
+              "id": "jasná-obloha",
+              "children": []
+            },
+            {
+              "index": 60,
+              "level": 2,
+              "name": "Dobré mravy",
+              "id": "dobré-mravy",
+              "children": []
+            },
+            {
+              "index": 61,
+              "level": 2,
+              "name": "Děvče s cínovým talířem",
+              "id": "děvče-scínovým-talířem",
+              "children": []
+            },
+            {
+              "index": 62,
+              "level": 2,
+              "name": "Záhadná hudba",
+              "id": "záhadná-hudba",
+              "children": []
+            },
+            {
+              "index": 63,
+              "level": 2,
+              "name": "Druhé představení",
+              "id": "druhé-představení",
+              "children": []
+            },
+            {
+              "index": 64,
+              "level": 2,
+              "name": "Sklenice dešťů",
+              "id": "sklenice-dešťů",
+              "children": []
+            },
+            {
+              "index": 65,
+              "level": 2,
+              "name": "Rozmanitý způsob zábavy",
+              "id": "rozmanitý-způsob-zábavy",
+              "children": []
+            },
+            {
+              "index": 66,
+              "level": 2,
+              "name": "Hovor noční",
+              "id": "hovor-noční",
+              "children": []
+            },
+            {
+              "index": 67,
+              "level": 2,
+              "name": "U Zelené panny",
+              "id": "uzelené-panny",
+              "children": []
+            },
+            {
+              "index": 68,
+              "level": 2,
+              "name": "Bitka u zeleného vozu",
+              "id": "bitka-uzeleného-vozu",
+              "children": []
+            },
+            {
+              "index": 69,
+              "level": 2,
+              "name": "Rozšafný biskup",
+              "id": "rozšafný-biskup",
+              "children": []
+            },
+            {
+              "index": 70,
+              "level": 2,
+              "name": "Naučení, jež čerpáme z knih a z rozhovorů",
+              "id": "naučení-jež-čerpáme-zknih-azrozhovorů",
+              "children": []
+            },
+            {
+              "index": 71,
+              "level": 2,
+              "name": "Hněv",
+              "id": "hněv",
+              "children": []
+            },
+            {
+              "index": 72,
+              "level": 2,
+              "name": "Ranhojičský zákrok",
+              "id": "ranhojičský-zákrok",
+              "children": []
+            },
+            {
+              "index": 73,
+              "level": 2,
+              "name": "Divné mínění o šrůtkách",
+              "id": "divné-mínění-ošrůtkách",
+              "children": []
+            },
+            {
+              "index": 74,
+              "level": 2,
+              "name": "Okoun",
+              "id": "okoun",
+              "children": []
+            },
+            {
+              "index": 75,
+              "level": 2,
+              "name": "Zlořečení literatuře",
+              "id": "zlořečení-literatuře",
+              "children": []
+            },
+            {
+              "index": 76,
+              "level": 2,
+              "name": "Přiznání kanovníkovo",
+              "id": "přiznání-kanovníkovo",
+              "children": []
+            },
+            {
+              "index": 77,
+              "level": 2,
+              "name": "Vnitřek vozu",
+              "id": "vnitřek-vozu",
+              "children": []
+            },
+            {
+              "index": 78,
+              "level": 2,
+              "name": "Ženské vždycky stejné",
+              "id": "ženské-vždycky-stejné",
+              "children": []
+            },
+            {
+              "index": 79,
+              "level": 2,
+              "name": "Nepohoda",
+              "id": "nepohoda",
+              "children": []
+            },
+            {
+              "index": 80,
+              "level": 2,
+              "name": "Obrácení Antonínovo",
+              "id": "obrácení-antonínovo",
+              "children": []
+            },
+            {
+              "index": 81,
+              "level": 2,
+              "name": "Úvaha o Anně",
+              "id": "úvaha-oanně",
+              "children": []
+            },
+            {
+              "index": 82,
+              "level": 2,
+              "name": "Víno a nesmysly",
+              "id": "víno-anesmysly",
+              "children": []
+            },
+            {
+              "index": 83,
+              "level": 2,
+              "name": "Špatná návštěva",
+              "id": "špatná-návštěva",
+              "children": []
+            },
+            {
+              "index": 84,
+              "level": 2,
+              "name": "Představení třetí",
+              "id": "představení-třetí",
+              "children": []
+            },
+            {
+              "index": 85,
+              "level": 2,
+              "name": "Nenasytní divákové",
+              "id": "nenasytní-divákové",
+              "children": []
+            },
+            {
+              "index": 86,
+              "level": 2,
+              "name": "Zvyk má železnou košili",
+              "id": "zvyk-mánbspželeznou-košili",
+              "children": []
+            },
+            {
+              "index": 87,
+              "level": 2,
+              "name": "Kouzelník přemohl bolest",
+              "id": "kouzelník-přemohl-bolest",
+              "children": []
+            },
+            {
+              "index": 88,
+              "level": 2,
+              "name": "Shon podobný shonu u mrtvoly",
+              "id": "shon-podobný-shonu-umrtvoly",
+              "children": []
+            },
+            {
+              "index": 89,
+              "level": 2,
+              "name": "Hlas rozumu",
+              "id": "hlas-rozumu",
+              "children": []
+            },
+            {
+              "index": 90,
+              "level": 2,
+              "name": "Prostá srdce",
+              "id": "prostá-srdce",
+              "children": []
+            },
+            {
+              "index": 91,
+              "level": 2,
+              "name": "Návrat do města",
+              "id": "návrat-donbspměsta",
+              "children": []
+            },
+            {
+              "index": 92,
+              "level": 2,
+              "name": "Annina rada",
+              "id": "annina-rada",
+              "children": []
+            },
+            {
+              "index": 93,
+              "level": 2,
+              "name": "Odpověď",
+              "id": "odpověď",
+              "children": []
+            },
+            {
+              "index": 94,
+              "level": 2,
+              "name": "Arnoštek nebyl překonán",
+              "id": "arnoštek-nebyl-překonán",
+              "children": []
+            },
+            {
+              "index": 95,
+              "level": 2,
+              "name": "Annino odění",
+              "id": "annino-odění",
+              "children": []
+            },
+            {
+              "index": 96,
+              "level": 2,
+              "name": "Zvrácený vkus",
+              "id": "zvrácený-vkus",
+              "children": []
+            },
+            {
+              "index": 97,
+              "level": 2,
+              "name": "Zasmušilí měšťané",
+              "id": "zasmušilí-měšťané",
+              "children": []
+            },
+            {
+              "index": 98,
+              "level": 2,
+              "name": "Dobré divadlo",
+              "id": "dobré-divadlo",
+              "children": []
+            },
+            {
+              "index": 99,
+              "level": 2,
+              "name": "Poctivý úžas",
+              "id": "poctivý-úžas",
+              "children": []
+            },
+            {
+              "index": 100,
+              "level": 2,
+              "name": "Tak se to sluší",
+              "id": "tak-senbsptonbspsluší",
+              "children": []
+            },
+            {
+              "index": 101,
+              "level": 2,
+              "name": "Kořeny umění hereckého",
+              "id": "kořeny-umění-hereckého",
+              "children": []
+            },
+            {
+              "index": 102,
+              "level": 2,
+              "name": "Příhoda s rukávem",
+              "id": "příhoda-srukávem",
+              "children": []
+            },
+            {
+              "index": 103,
+              "level": 2,
+              "name": "Mistr a Kateřina",
+              "id": "mistr-akateřina",
+              "children": []
+            },
+            {
+              "index": 104,
+              "level": 2,
+              "name": "Rozmrzelý kouzelník",
+              "id": "rozmrzelý-kouzelník",
+              "children": []
+            },
+            {
+              "index": 105,
+              "level": 2,
+              "name": "Výprava",
+              "id": "výprava",
+              "children": []
+            },
+            {
+              "index": 106,
+              "level": 2,
+              "name": "Souboj",
+              "id": "souboj",
+              "children": []
+            },
+            {
+              "index": 107,
+              "level": 2,
+              "name": "Pravá přátelství",
+              "id": "pravá-přátelství",
+              "children": []
+            },
+            {
+              "index": 108,
+              "level": 2,
+              "name": "Epizoda o smiřlivých a přísných lidech",
+              "id": "epizoda-osmiřlivých-apřísných-lidech",
+              "children": []
+            },
+            {
+              "index": 109,
+              "level": 2,
+              "name": "Epizoda se končí",
+              "id": "epizoda-senbspkončí",
+              "children": []
+            },
+            {
+              "index": 110,
+              "level": 2,
+              "name": "Další rozprava",
+              "id": "další-rozprava",
+              "children": []
+            },
+            {
+              "index": 111,
+              "level": 2,
+              "name": "Věci nevídané",
+              "id": "věci-nevídané",
+              "children": []
+            },
+            {
+              "index": 112,
+              "level": 2,
+              "name": "Vše uplývá",
+              "id": "vše-uplývá",
+              "children": []
+            },
+            {
+              "index": 113,
+              "level": 2,
+              "name": "Co se Kateřině líbí a co odsuzuje",
+              "id": "conbspsenbspkateřině-líbí-aco-odsuzuje",
+              "children": []
+            }
+          ]
         }
       ]
     },
