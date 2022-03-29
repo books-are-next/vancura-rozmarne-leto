@@ -3,7 +3,7 @@ hiddenTitle: true
 contentType: prose
 ---
 
-Staré časy
+## Staré časy
 
   
 
@@ -23,7 +23,7 @@ Tehdy markytánky léta v kapotu, ve střevících ploských a prů­dušných
 
 Hola, hola! Nestojí tyto hovory za opakování? Přivádějí snad z míry poctivý krok? Nejsou dosti pravdivé a nepáchnou téměř naprostou prostředností?
 
-Lázeňské místo Krokovy Vary
+## Lázeňské místo Krokovy Vary
 
   
 
@@ -33,13 +33,13 @@ Ha, říkává varský starosta snímaje karty, u nás se nezahálí. Hej rup! 
 
 Nuže v těchto končinách účelnosti a kvapícího času (ach, kdepak se zhurta nestárne a kde je obyvatelstvo, jehož prostředky nejsou posvěceny) bylo několik usedlostí a něco majetku dosti starobylého. Byl získán z největší části ve hře, jež se nazývá MALÁ–VELKÁ nebo MALÁ BERE. Je to majetek požehnaný a je dobře spravován, neboť, namoutě, zdejší měšťané jsou kovaní kupci a nic jim nepřekáží, že jsou Krokovy Vary lázně jen deváté velikostí, nevhodné oblačnosti, chabého záření slunečního, neprosákavé půdy a zřídel nikoliv vroucích. Nechť si! Třebas nemá kanalizace, je to přece město bodré a počestné.
 
-Čas
+## Čas
 
   
 
 Kalendář more Gregoriano rudl prvou nedělí červnovou a zněly veliké zvony. Čas šel vpřed rychlým krokem, jako tomu bývá vždy ve chvílích prázdně a o velikých svátcích. Blížila se hodina osmá, hodina, o níž se vypráví, že je to čenich smečky denního času a že vás vyslídí, stůj co stůj.
 
-Stáří a poloha ústavu Antonína Důry
+## Stáří a poloha ústavu Antonína Důry
 
   
 
@@ -47,7 +47,7 @@ V tuto chvíli zpěvem a rozmarnou hrou byl počat děj tohoto vypra­vování
 
 „Ach ovšem,“ děl purkrabí, jemuž se kdysi v století čtrnáctém namanulo jednati zpříma, „ach ovšem, koupejme se!“ Řka to, prošel křovisky až k písčině a vykonal, co byl již řekl. Od těch dob, pokud paměť sahá, se užívalo těchto míst podle jejich určení.
 
-Antonín Důra
+## Antonín Důra
 
   
 
@@ -61,7 +61,7 @@ Nuže, ať je podnebí příznivé čili nic, tyto věci nesnesou odkladu.“
 
 „Ach, plovárna a tato číška jsou prázdny.“
 
-Věci soudobé a kněz
+## Věci soudobé a kněz
 
   
 
@@ -83,7 +83,7 @@ Kněz zavřel knihu, zanechav mezi listy sevřený ukazováček, usedl na kamenn
 
 „Jakže,“ zvolal abbé, „vy byste chtěl opakovati příhodu z bajky o vráně, jež ztrácí sýr! Probůh, podržte si svůj doutník a buďte němý.“
 
-Vojín Hugo
+## Vojín Hugo
 
   
 
@@ -109,7 +109,7 @@ Zatím major otevřel skříňku, již přinesl z komory Důrovy, navlékl deš
 
 „Nikoliv,“ děl, „shledávám jakési zaujetí v těchto hovorech, a třeba by nebyly dosti ušlechtilé, připouštím je, neboť zaujetí jsou odlesk vášní. Co jest velikého mimo oblohu věčně modrou a vášně věčně krvavé?“
 
-Pozorování povětrnosti
+## Pozorování povětrnosti
 
   
 
@@ -117,7 +117,7 @@ Pozorování povětrnosti
 
 Rozhlédněte se po všech čtyřech stranách tohoto nebe,“ hovořil dále Antonín maje tvář skrytu v košili a opisuje veliký vzdušný kruh rukávem, v němž paže vězela jen zpola. „Rozhlédněte se a nespatříte nic než vyzdviženou mlhu, vodorovně vrstvenou. Hle, výstupné proudy, unášející páru od povrchu zemského k rosnému bodu. Těch sloh a oblačných stěn a těch pletichářských mlžinek! Žel, pánové, jsem příliš chud, než aby mi bylo dovoleno býti hněvivým. Avšak chtěl bych zaklíti téměř bezprostředně.“
 
-Jiné rozhovory
+## Jiné rozhovory
 
   
 
@@ -131,13 +131,13 @@ Antonín odpověděl, že se kanovník může mýliti, neboť prodlévá na druh
 
 „Kdybyste nevyřizovali pře křikem,“ pronesl nalévaje tři číšky, „mohl bych vám býti tu a tam užitečným, avšak pokud mohu souditi, vaše zadostiučinění je, máte-li poslední slovo.“
 
-Hana soubojů
+## Hana soubojů
 
   
 
 Nato pravil Antonín Důra: „Je lépe míti poslední slovo než poslední ránu, neboť mi nenamluvíte, že schladím svoji zlost, jestliže mi někdo protne lýtko až k holenní kosti. Lékařské knihy, které čítávám, necení si nic více než vleklou chorobu a v jejich smyslu je hrubý vědecký omyl dát se čtvrtit na soubojovém stanovišti. Svoji k svému, majore. Jste povinován tomuto pokročilému století, abyste zemřel na proleženiny, jsa stižen úbytěmi míchy a dosáhna devadesáti let.“
 
-Zápletka
+## Zápletka
 
   
 
@@ -149,13 +149,13 @@ Rozmlouváme o odtažitých věcech, jež zaměstnávají kanovníka, odtušil 
 
 „Jak si mohu, majore, za tohoto stavu věcí vážiti vašich králů, kanovníkových knih a svého zdraví?“
 
-Vzpomínka panina
+## Vzpomínka panina
 
   
 
 „Můj manžel plkává dosti často,“ pravila paní Důrová, „ach! Je mi to snášeti od sedmnáctého roku, neboť vězte, že jsem se provdala mláda. Ano, mohla jsem voliti mezi lepšími chlapíky, než je mistr, avšak Antonín zbil ženichy a zmocniv se klíčů, jež jako s uděláním se hodily k mým dvířkám, obtěžoval mě tak dlouho, až bylo nutné slaviti svatbu. Je to pravda, Antonín býval velmi zamilován a velmi zdráv, chci se vsaditi, že toho měli ti kluci dost, když je zmlátil.“
 
-Zevrubnost a obšírnost (na radu kritiků)
+## Zevrubnost a obšírnost (na radu kritiků)
 
   
 
@@ -167,7 +167,7 @@ Vypravuje se o některých historicích, že cvičívali své tělo,“ hovoři
 
 „Co chcete říci, mistře,“ zeptal se kanovník, „zdá se mi, že jste na své cestě za výrazem došel až k stupni nesrozumitelnosti téměř zajímavé.“
 
-Rozhodnost a čin
+## Rozhodnost a čin
 
   
 
@@ -181,7 +181,7 @@ Můj manžel je otevřhuba.
 
 „Můj muž,“ pravila, „je nevyrovnatelný osel, pojďte, pane, převezu vás a vy mu to řeknete zblízka.“
 
-Láhev a tažení italské
+## Láhev a tažení italské
 
   
 
@@ -207,7 +207,7 @@ V tu chvíli nastal kolem láhve zmatek a mužové mluvili jeden přes druhéh
 
 „Neopakujte těch tlachů z pisklavých knihoven!“ „Dejte si říci!“ „Nechte na hlavě! To jest, to jest ta čveračina štábu s obvazkem a s podvázanou bradou!“
 
-Napomenutí
+## Napomenutí
 
   
 
@@ -223,7 +223,7 @@ Zatím však kanovník obracel listy v své knize a našed místo, jež hledal
 
 Potom přistoupil k majorovi, jenž neustával předváděti lítý zápas, a povýšeným hlasem četl VII. knihu ód Horatiových, co veliký Antonín, neznaje jiných výrazových prostředků síly, jež tryská a dere se ze zdravého těla, popadl jakýsi špalek a zvedl jej sto a jedenkrát do výše.
 
-Námluvy
+## Námluvy
 
   
 
@@ -243,7 +243,7 @@ Ti dva,“ doložila ukazujíc na mistra a na majora, „nepostihnou ani jedin�
 
 „Mistr,“ odtušil kanovník, „se stará a pečuje o svoje tělo snad příliš, avšak nikdy jsem jej neponoukal ani jsem ho nepovzbuzoval, aby to činil bez výhrady. Mistr, vy a já, paní, jsme v létech, kdy se již nekřičí z plných plic a kdy můžeme minouti plot sousedův bez pokušení, abychom jej přeskočili. Nelibuji si v okázalých kouscích.“
 
-Cesta ctnosti
+## Cesta ctnosti
 
   
 
@@ -257,7 +257,7 @@ A zanechav ženu bez obšírnější odpovědi, povzbuzoval majora, aby ukázal
 
 „Zde jest, zde jest,“ vykřikl Hugo, bodaje bidélkem do škvíry mezi prkny, jež zdaleka připomínala mezižebří.
 
-Nové námluvy
+## Nové námluvy
 
   
 
@@ -275,7 +275,7 @@ Za mých časů byl abbé již stár, avšak vysvětlete mi, jakou nepřízní n
 
 „Abych to nevěděla! Abych nevěděla, kde sloužil,“ odpověděla paní. „Chcete-li vyvolati spor, opakujte něco jiného a mistr Antonín vás zvalchuje, třeba máte klacek, o němž se domníváte, že jest to rapír. Holečku, můj Antonín nestrpí, aby se s jeho manželkou mluvilo lehkovážně.“
 
-Přívětivý plavčík
+## Přívětivý plavčík
 
   
 
@@ -297,7 +297,7 @@ Zatím se neděle blížila k deváté a na plovárnu vešlo několik dam, je�
 
 „Hurá,“ děl abbé, „vidím, že jste si osvojila něco logiky, jež mne odzbrojuje.“
 
-Výstraha
+## Výstraha
 
   
 
@@ -315,7 +315,7 @@ Kanovník namítl, že si není třeba někoho všímati, nicméně Hugo složil
 
 „Snášenlivost,“ děl mistr, „je vlastnost všech vojevůdců.“
 
-Kouzelník Arnoštek
+## Kouzelník Arnoštek
 
   
 
@@ -337,7 +337,7 @@ Ti mužští,“ doložila, odnášejíc kartáč a štětičku dámám, které
 
 „To nevím,“ pravila Kateřina Důrová, „avšak na rozdíl od zdejšího lidu pan Arnoštek je kadeřavý a nezdá se, že má zálibu ve zbraních ani v učenostech.“
 
-Kouzelníkův zevnějšek
+## Kouzelníkův zevnějšek
 
   
 
@@ -351,7 +351,7 @@ Antonín odnášel zbytky jakéhosi oběda, maje na širokém prkně hrnec na hr
 
 „Tu to máme,“ děl, uzavíraje svoje vypravování, „je-li růžová barva barva selečí, je učenecká šeď a čerň barva potkanů.“
 
-Nevýřeční profesoři
+## Nevýřeční profesoři
 
   
 
@@ -361,7 +361,7 @@ Nevýřeční profesoři
 
 Před pěti nebo šesti léty bydlil zde profesor Karlovy univerzity, muž rozvážlivý, písemný půtkář a člověk, jenž potřásal literaturou starou i novou, a víte-li pak, že nedovedl říci souvisle číslo kabiny, kde se svlékl. Od těch dob soudím, že vzdělání tohoto druhu je na obtíž, chceme-li se vyjadřovati.“
 
-Géniové málo sliční
+## Géniové málo sliční
 
   
 
@@ -373,7 +373,7 @@ Na těchto hovorech kouzelník Arnoštek neměl účasti. Stál, jsa opřen o b
 
 „To jest podivuhodná libovůle,“ doložil Antonín, „což nelze stanoviti typu jednou a navždy?“
 
-Rozprava kouzelníkova s paní Důrovou
+## Rozprava kouzelníkova s paní Důrovou
 
   
 
@@ -393,7 +393,7 @@ Dožil se padesátky neopouštěje Krokových Varů, čte a píše téměř bez
 
 „Zde,“ děl Arnoštek, „je kámen úrazu. Chtěl bych se vsadit, že se cvičí prostě, bez oduševnění, na vlastní škodu a na prospěch nezdravé vášně, aby vydělal.“
 
-Malá ukázka Arnoštkova umění
+## Malá ukázka Arnoštkova umění
 
   
 
@@ -409,13 +409,13 @@ A než Hugo zaklel a než se kanovník mohl obšírněji vysloviti, Arnoštek 
 
 „Br,“ dodal, osušuje stroj loktem, „cítím mražení na šešulce mezi oběma polokoulemi mozkovými a slyším rány nikoliv nepodobné velikonočním zvonům, neboť tyto hodinky ze skla a z kovu mi zachladily lebeční nitro a vzbouřily je svým tikáním.“
 
-Nemírný obdiv
+## Nemírný obdiv
 
   
 
 „Ouvej,“ vzkřikla paní Důrová nezachovávajíc míry v svém obdivu. „Vy jste měl tyto hodiny uvnitř hlavy? Tyto cibule ukrutníkovy?“
 
-Uznání majorovo
+## Uznání majorovo
 
   
 
@@ -427,7 +427,7 @@ Pokud jde o dnešní dopoledne,“ děl obraceje se opět k Arnoštkovi, „m�
 
 Kouzelník letmo naznačil, že tomuto jídlu uvykl a že je miluje. Potom obkročiv lavici, snědl třikráte po dvou kusech prudce a bez rozpaků. Nakonec, když si byl utřel ústa, napil se rumu.
 
-Cizina nenávistná
+## Cizina nenávistná
 
   
 
@@ -453,7 +453,7 @@ V Mülhausenu a v Schenewidenu byli by mě málem ztloukli po­křikujíce, �
 
 Arnoštek měl na jazyku dvě nebo tři souvětí, jež zvolna plynou, ale když nebylo zbytí, vyňal stroj z nejhlubší kapsy.
 
-Plynoucí čas
+## Plynoucí čas
 
   
 
@@ -465,7 +465,7 @@ Když to Arnoštek řekl, natáhl si nohavici a kabát na flanderský trikot, d
 
 Abbé a major vyšli za ním.
 
-Příměř
+## Příměř
 
   
 
@@ -475,7 +475,7 @@ Všiml sis, Antoníne, jeho rozpaků a jeho ruměnce, když mu major nabízel t
 
 Mistr vzal láhev a neodpovídaje zvedl ji proti obloze. „Ano,“ děl po chvíli zevrubného šetření, „ano, je to zdatný člověk. Najedl se, hojně se napil a nezaplatil vstupného.“
 
-Soumrak a večer
+## Soumrak a večer
 
   
 
@@ -489,7 +489,7 @@ Je noc. Před domy usedají vyžlovité panny a hledajíce v zenitu večernici
 
 Ale chválabohu, všude jsou dobré útvary hostinské, jež ve dne zívají dveřmi, večer však jsou dočista dokořán a dobře osvětleny.
 
-Výčet jídel
+## Výčet jídel
 
   
 
@@ -553,7 +553,7 @@ A vyšli.
 
 Náměstí, tento výtvor století XVIII., doplňovaný hrůzyplným stavitelstvím škol uměleckého průmyslu, s temnými kupami pla­tanů a se zářícími stromy svítilen, majíc korunu z hvězd, bylo málem krásné.
 
-Má satan vidle?
+## Má satan vidle?
 
   
 
@@ -579,7 +579,7 @@ _levá, levá, levá!_
 
 Antonín kráčel uprostřed. Antonín dosti veliký, aby zhášel lucerny bez žebříku, nepřehlédnutelný, vzpupný pro své rozměry, mluvka, nedočkavý a bez peněz. Antonín, jemuž mlčení nebylo příkazem, jal se tu uvažovati o kouzelnících, přepínaje trpělivost svých přátel a hrubě se mýle v podstatných věcech.
 
-Úvaha o kouzelnících
+## Úvaha o kouzelnících
 
   
 
@@ -611,7 +611,7 @@ Míra dálky je toulka, míra hojnosti je hlad a hra předchází před činy. 
 
 „Snad ne! Snad ne!“ vykřikl Antonín postrašeně. „Neměl jsem nic podobného na mysli. Zapomeňte, abbé, jestliže jsem přece něco takového řekl.“
 
-Začněte!
+## Začněte!
 
   
 
@@ -631,7 +631,7 @@ Blížila se devátá a soumrak se stával tmou. Arnoštkovy lampy, podobajíce
 
 „Víte co, Antoníne,“ řekl major, „vidím, že slečna má v ruce dvě misky a že vybírá peníze. Až k nám přijde, požádáme ji, aby sňala své pouzdro.“
 
-Výběrčí
+## Výběrčí
 
   
 
@@ -655,7 +655,7 @@ Anna poděkovala zdvořile a rozumně všem třem pánům, a nežli ji major p
 
 Řka to, Antonín se naklonil k uchu Anninu a jal se jí prudce a naléhavě cosi šeptati.
 
-Společenské poklesky
+## Společenské poklesky
 
   
 
@@ -669,7 +669,7 @@ Když se Antonín dopustil tohoto poklesku, měl jej přejíti mlčením ustanov
 
 Řkouc to, povzdechla, a dotekši se zlehka Antonínova lokte, odcházela s miskami ke skupině mladíků, jež ji přijala stejně vlídně a s dvorností.
 
-Veliký bubeník
+## Veliký bubeník
 
   
 
@@ -683,7 +683,7 @@ Zatím se Anna vrátila k vozu a Arnoštek oděný proslulým flanderským tri
 
 V tu chvíli se opět ozval kolovrátek, a co si abbé a major s trochou lítosti uvědomovali, že jeho klikou otáčí Anna, Arnoštek povstal, a uchopiv tyč (již je držeti v rozpažených rukou), přeběhl rozhněvaně provaz po celé délce.
 
-Strašné umění
+## Strašné umění
 
   
 
@@ -711,7 +711,7 @@ Arnoštek čaroval ze všech sil a za ustavičného poskoku, jakkoliv byl znave
 
 Krátce, z kouzelníka šel strach, a přece nepřestal! Naopak, vydávaje se ve veliké nebezpečí, dal se do kozelců a metal je k vidlici západní a odtud k vidlici východní. Teprve když znovu dospěl k svému žebříku, sestoupil a klopýtaje téměř bez důstojenství vlezl do vozu.
 
-Plané podezřívání a domluva
+## Plané podezřívání a domluva
 
   
 
@@ -725,7 +725,7 @@ V tu chvíli zazněl opět buben a zástup ohmatávaje si šíji (neboť je ob
 
 „Představení je u konce, je čas jíti,“ řekl abbé. A vyšli.
 
-Mistr se chystá na hlídku
+## Mistr se chystá na hlídku
 
   
 
@@ -733,7 +733,7 @@ Doma Antonín seznal, že se paní Důrová právě vrátila z téhož divadla 
 
 „Dnes,“ pravil zíraje oknem k jasnému měsíci, „je tmavá noc a spousta ničemníků má asi zálusk na tvoje podušky, na tvoje pláště, utěrky, mýdla a na ostatní pomůcky plovárenské. Lehni si bez starostí. Půjdu je hlídat. Strávím noc ve veliké kabině na loži, které je tvrdé, ale nechť, budu spát lehounce a na půl oka.“
 
-Stížnosti Kateřininy
+## Stížnosti Kateřininy
 
   
 
@@ -749,7 +749,7 @@ Potom obrátivši se ke zdi v poduškách, jež byly pruhovány, jakož se slu�
 
 Spatřila jej, jak se usmívá zpod svého klobouku, jak kráčí maje hlavu pěkně schýlenu k rameni a konečně jak si opírá přemýšlivé čelo dávaje zářiti prstenu na ukazováku.
 
-Neklidné snění
+## Neklidné snění
 
   
 
@@ -761,7 +761,7 @@ Nuže paní Důrová zdvihla svoje střevíce, a oblékši plášť, přistoupi
 
 Paní otevřela vyhlídku jsouc na pochybách, není-li mýlka a nesmysl, že se vstává tak záhy.
 
-Dům a zvyky Antonínovy
+## Dům a zvyky Antonínovy
 
   
 
@@ -771,7 +771,7 @@ Paní Důrová znala dopodrobna zvyky manželovy a tu, když se jí zachtělo v
 
 „Ach, toho starého pošetilce, toho osla, jenž se domnívá, že mě zavře, aby mohl bez zasloužené odplaty tropiti své výtržnosti! Jenž mě zavře, aby se mohl toulati po nocích! Ba co dím, aby smilnil! Neboť jsem si jista, že tento ohavník nalezl poběhlici, jež se s ním dorozuměla. Nu ovšem! Nu zajisté! Tím jedině lze vysvětliti jeho bezbožné manželství.“
 
-Kletba
+## Kletba
 
   
 
@@ -781,7 +781,7 @@ Kletba
 
 Tyto myšlenky přiměly Kateřinu k činu. Skočila dolů, a jakkoliv podezdívka nebyla vysoká, dopadla na ruce. Maličká oděrka, již pokládala za pohromu, znovu však Kateřinu rozzuřila.
 
-Mohutná léta devadesátá
+## Mohutná léta devadesátá
 
   
 
@@ -829,7 +829,7 @@ Za dveřmi bylo slyšeti dva hlasy, a protože pouze jediný z obou mohl nále
 
 Řkouc to jala se opravdu hledati kopáč, sochor či sekeru.
 
-Věčná chvíle
+## Věčná chvíle
 
   
 
@@ -843,7 +843,7 @@ Pojednou bylo slyšeti pád a jasný cinkot skla.
 
 Vedle plovárenského vchodu stávala od nepaměti stará stolice. Kateřina pobíhajíc a udeřivši se do kolenního kloubu o její roh spatřila ji pozdě a tu, aniž zaklela, vzala do náruče tento nábytek a nesla jej ke dveřím kabiny. Potom, sotva židle stála, vystoupila na ni, a zachytivši se horních okrajů prken, s dychtivostí vznesla svoje velikolepé tělo do výše, aby mohla nahlédnouti horním otvorem do vnitra kabiny.
 
-Tak vida!
+## Tak vida!
 
   
 
@@ -855,7 +855,7 @@ V tu chvíli otevřel Antonín dveře.
 
 „Hrome, vidím, že je mokrá.“ dodala po chviličce ticha hrubě přehlížejíc Anninu krásu, jež prosvítala.
 
-Zmoudřete!
+## Zmoudřete!
 
   
 
@@ -877,7 +877,7 @@ Vy, Antoníne,“ děl obraceje se k mistrovi, „jste si počínal hůře než
 
 „V mém dobrodružství,“ pravil Antonín, „není nic ošklivého, ne­boť Anna je naživu, dýchá a chodí. Slíbil jsem jí něco ryb, a vy, majore, byste mi měl přispěti, neboť – jak jsem si úkradkem všiml – je to opravdu hezké děvče.“
 
-Dosti
+## Dosti
 
   
 
@@ -893,7 +893,7 @@ Když se vylál, zdvihl opět svoji knihu a pravil:
 
 Pah,“ doložil, „dovedou kaziti staré rody křížíce se s největší snadností s potomky šlechty a přivádějíce na svět čtenáře poštovních knížek.“
 
-Horlivost
+## Horlivost
 
   
 
@@ -911,7 +911,7 @@ Když paní zevrubně popsala způsob uchovávání potravin a způsob svého o
 
 „Slyšela jsem třesk a zvonění skla, slyšela jsem, jak crčí voda padajíc zpátky do kádinky. Pohříchu teprve teď vidím, pohříchu teprve teď je mi jasné, že crčela z Antonínových kalhot a že si tento cizoložník sedl do vody jen proto, aby mě oklamal a zmátl. Té nestoudnosti! Podvedli mě, smočivše si košile a spodky.“
 
-Kdo to byl?
+## Kdo to byl?
 
   
 
@@ -925,7 +925,7 @@ Kdo to byl?
 
 „Moje žena,“ děl Antonín, „je potrhlá a zlá baba. Nezbývá mi nic, než abych vzal čepici a hůl a šel za ní. Obávám se, že nebude vyhnutí a že budu nucen, abych jí natloukl.“
 
-Hra s krupkami
+## Hra s krupkami
 
   
 
@@ -939,7 +939,7 @@ Antonín naslouchal, avšak vůkol vládlo ticho, pohoda a mír.
 
 Řka to, Antonín jal se pokukovati k vozu jinak a odvážněji, avšak jeho dveře zůstávaly zavřeny a Anna se neobjevovala. Některé staré zkazky vstoupily mistrovi na mysl a tu, pohrávaje si krupkami, jež nalezl v kapse, byl by málem usnul.
 
-Zelený vůz
+## Zelený vůz
 
   
 
@@ -957,7 +957,7 @@ Potom zvedl hůl, a zaklepav na zastřené okno, odcházel chechtaje se z pln�
 
 Jděte, milenci,“ dodal, „jděte loket v paži, prchejte nohy na ramenou a probůh, ať se nevracíte!“
 
-Střezte se strážníků!
+## Střezte se strážníků!
 
   
 
@@ -973,7 +973,7 @@ Když je pokáral, rozpomenuv se na svá dětinská léta, mávl rukou a chtěl
 
 „Byl otevřen,“ pravil Antonín, „neboť se to stalo ve dne.“
 
-Zpěv
+## Zpěv
 
   
 
@@ -989,7 +989,7 @@ Zpěv
 
 Řka to odcházel, pokyvuje hlavou.
 
-Jasná obloha
+## Jasná obloha
 
   
 
@@ -1001,7 +1001,7 @@ Městský lid pospíchal na představení ze všech koutů, a když tři přát
 
 „I čerta,“ odvětil. Antonín, „byly doby, kdy jsme hřešili ostošest, a přece svítilo slunce! Myslím, že to v tom nevězí.“
 
-Dobré mravy
+## Dobré mravy
 
   
 
@@ -1011,7 +1011,7 @@ Někteří výrostkové tropili všelijaké šprýmy s děvčaty. Ti chlapíci 
 
 Abbé pohyboval hlavou a zdálo se, že přisvědčuje.
 
-Děvče s cínovým talířem
+## Děvče s cínovým talířem
 
   
 
@@ -1031,7 +1031,7 @@ Zatím bylo načase, aby Anna, dívka kouzelníkova, pomýšlela na svoje misky.
 
 Potom, nepřijavši peněz než od majora, zmizela ve shluku lidí.
 
-Záhadná hudba
+## Záhadná hudba
 
   
 
@@ -1039,7 +1039,7 @@ Záhadná hudba
 
 „Často jsem se bál o váš zdravý rozum a vidím, že moje strachy byly důvodné. Jak můžete žertovati o tom, že vám utekla žena?“ pravil Hugo.
 
-Druhé představení
+## Druhé představení
 
   
 
@@ -1049,7 +1049,7 @@ Odpočinuv si, postavil se pěkně na konečky ukazováků, a nesa všechnu tí
 
 „To je kluk kakraholtská. To je štvanec. Ten se vyzná v tlačenici,“ pravilo několik příchozích z okolních osad, kteří v nadšení užívají rčení, úsloví a obrazů obecné mluvy.
 
-Sklenice dešťů
+## Sklenice dešťů
 
   
 
@@ -1059,7 +1059,7 @@ Kdyby byl tento šprým trval déle, mohla býti osada všecka zaplavena, neboť
 
 „Dobrá,“ pravili divákové, „dejte s tím pokoj, pane kouzelníku, a zavřete kohoutek. Chvála pánubohu, u nás je dost vláhy, cožpak jsme nemokli dnes a včera po celý den?“
 
-Rozmanitý způsob zábavy
+## Rozmanitý způsob zábavy
 
   
 
@@ -1073,7 +1073,7 @@ Antonín zívl a řekl majorovi, že je unaven a že půjde spat.
 
 „Umíte pískati na prsty?“ otázal se Antonín, „nuže, kdyby se vám přihodilo něco zlého, pískejte hodně silně.“
 
-Hovor noční
+## Hovor noční
 
   
 
@@ -1091,7 +1091,7 @@ Potom vyňal z kapsy knížku a drže ji v ruce přistoupil k oknu Arnoštko
 
 „Nuže,“ odpověděla Anna, „otevru vám a vy budete obraceti pánev pěkně po ohni.“
 
-U Zelené panny
+## U Zelené panny
 
   
 
@@ -1101,7 +1101,7 @@ V hostinci tohoto pěkného jména několik pijáků přebralo míru, a proto�
 
 Když to všechno řekli a když byli u konce, složili karty a hajdy ven na náměstí. Chodili sem a tam, a přišedše konečně ke kouzelníkovu vozu, jali se jím pohybovati, popojížděli s ním, vyrazili zákolníček, pleskali psíka po kýtách, bušili na okna, bubnovali na stěny, křičeli, že je Arnoštek stará opice a že se chtějí s Annou oženiti.
 
-Bitka u zeleného vozu
+## Bitka u zeleného vozu
 
   
 
@@ -1111,7 +1111,7 @@ Ostatní vidouce svého kumpána takto zhanobeného velmi se rozhněvali. Vypá�
 
 Zatím kanovník vyvázl z chumlu, a slyše volání po stráži, rozbil městské osvětlovací těleso. Tu se mu podařilo přikrčiti se do tmy. Čekal, a jak byla chvíle příhodná, dal se do útěku podél zdi, přeběhl náměstí, a zahnuv do ulice Primátorské, hupky pospíchal k domovu.
 
-Rozšafný biskup
+## Rozšafný biskup
 
   
 
@@ -1121,7 +1121,7 @@ Kterýsi biskup královéhradecký překypoval chutí a schopnostmi štváti za
 
 „Festina lente!“ říkával, „festina lente, pane myslivče! Zajíc je hbité a malé zvíře. My naopak jsme dospělí a rozšafní mužové. Jen pošetilci se řítí vpřed skákajíce, opisují kličky, rudnou, brunátněji, popadají dechu, avšak ten, kdo věc uvážil, jde zvolna. Jen ať nám ten ušák uteče, vsadím se, že co nevidět vyrazí jiný, a věřte mi to nebo ne, třeba se to všechno rozutíkalo a třeba všechna zvěř zalezla do děr, budeme dnes přece míti k večeři zaječinu!“
 
-Naučení, jež čerpáme z knih a z rozhovorů
+## Naučení, jež čerpáme z knih a z rozhovorů
 
   
 
@@ -1133,7 +1133,7 @@ Moudrost kráčívá s věkem. Paní Důrová dosáhla čtyřiceti pěti let v�
 
 „Byl jsem dnes ráno u něho,“ řekl major, „má natržené ucho a zpuchlý obličej. Četl dvě knihy a byl vesel.“
 
-Hněv
+## Hněv
 
   
 
@@ -1145,7 +1145,7 @@ Hněv
 
 Řka to, mistr jal se hledati náčiní k šití ran, a zotvírav několik skřínek, konečně je našel. Byla to pěkná lesklá jehla zhotovená z udičky a hedvábná nit, na kterou se dobře líčí, když se zatíží olůvkem. Antonín si tedy omotal hedvábí na prst, vzal jehlu do špetky, a nestaraje se o plovárnu, vyšel za majorem, jenž měl naspěch.
 
-Ranhojičský zákrok
+## Ranhojičský zákrok
 
   
 
@@ -1165,7 +1165,7 @@ Když bylo náčiní vyvářeno, Antonín si vykasal rukávy, a umyv si pečliv
 
 Bylo třeba čtyř stehů. Mistr očistil ránu a vykonal je protknuv čtyřikrát hbitým máchnutím oba ranné okraje, protáhnuv nit a zauzliv ji. Potom přiložil obvazek z pěkného krajkového kapesníku a upevnil jej nákrčníkem.
 
-Divné mínění o šrůtkách
+## Divné mínění o šrůtkách
 
   
 
@@ -1173,7 +1173,7 @@ Divné mínění o šrůtkách
 
 „Ach,“ odpověděl kněz, „víte, že se vzdaluji půtek, a vězte, že mám-li natržené ucho, není to proto, že bych byl změnil své mínění o nich.“
 
-Okoun
+## Okoun
 
   
 
@@ -1187,7 +1187,7 @@ Okoun
 
 Ach, toho smilného básníka! Ach, té literatury!“
 
-Zlořečení literatuře
+## Zlořečení literatuře
 
   
 
@@ -1201,7 +1201,7 @@ Hledal jste po nocích výraz toho, co není, a opět toho, co se vyskytuje v 
 
 Nemluvil jste ani známě ani slovutně a při tom všem vaše mravy zpustly, že se perete!“
 
-Přiznání kanovníkovo
+## Přiznání kanovníkovo
 
   
 
@@ -1209,7 +1209,7 @@ Přiznání kanovníkovo
 
 „Pak,“ děl major, „vznešené a krásné jest umírati jedině na bojištích, básníci však bývají špatní vojáci. Mistr má pravdu.“
 
-Vnitřek vozu
+## Vnitřek vozu
 
   
 
@@ -1217,7 +1217,7 @@ Téhož dne kolem páté se začalo nad výšinami, jež na severu ohraničují 
 
 „Hleďme,“ pravili občané, „není bezpečnějšího přírodního zákona nad zákon Medardův. Opravdu, jeho kápě kape čtyřicet dnů! Dnes bylo krásně, avšak mraky jsou již přichystány a bude pršet co nevidět. Arnoštek zmokne.“
 
-Ženské vždycky stejné
+## Ženské vždycky stejné
 
   
 
@@ -1225,7 +1225,7 @@ Kouzelník seděl na lavičce a vyhlížel oknem znamenaje s nevolí tuto prav
 
 „Milá paní,“ děl Kateřině, která spravovala opatrnou jehlou díru v jeho kabátci, „když jsme byli jednou v zimě v Tyrolích, stahovalo se k sněhové bouři. Bylo zima, vůz promrzal a komínek nikoliv nepodobný tomuto netáhl. Tyrolská země je prostoupena mohutným horstvem, na jehož vrcholcích ležívá sníh a fičí severák.“
 
-Nepohoda
+## Nepohoda
 
   
 
@@ -1241,7 +1241,7 @@ Nepohoda
 
 Zatím se dalo do deště. Veliké krůpěje odskakovaly od oken a bubnovaly na střechu vozu. Kouzelník se díval, jak venku houstne soumrak, a nedbal již toho, co říká Kateřina. Mezi Arnoštka a pečlivou paní se kladl stín nadcházející noci. Kouzelník naslouchal hukotu větru a rachocení deště. Tu se mu zdálo, že kdesi uvnitř jeho těla v nepostižném koutku útroby vzniká tajemný hlas lítosti.
 
-Obrácení Antonínovo
+## Obrácení Antonínovo
 
   
 
@@ -1265,7 +1265,7 @@ Ale nevzpomínejme si na nic zlého. Abbé neměl ovšem jísti okouna, avšak o
 
 Potom rozmlouvajíce jako za starých časů brali se na náměstí a došli tam právě tehdy, když ustával déšť.
 
-Úvaha o Anně
+## Úvaha o Anně
 
   
 
@@ -1283,7 +1283,7 @@ Slečno,“ řekl potom, když Anna přišla až k nim, „svažte si uzlík a�
 
 Tu, právě včas, Arnoštek se uchopil trubky a dul do ní ze všech sil. Nicméně zvuk padal jako kroupy z pytle.
 
-Víno a nesmysly  
+## Víno a nesmysly  
 Jak se to dělá
 
   
@@ -1296,7 +1296,7 @@ Dobrá. Kdo se směje, nepozbývá proto vážnosti (leda by se smál příliš 
 
 Běda Arnoštkovi, jenž setrval v Krokových Varech příliš dlouho!
 
-Špatná návštěva
+## Špatná návštěva
 
   
 
@@ -1304,7 +1304,7 @@ Náměstí bylo téměř prázdné, ale ubohý kouzelník chodil po provaze sem 
 
 „Hleďme,“ řekl Antonín, „nikdo netleská, nikdo nevykřikuje a bojím se, že nás nerozveselí ani _sklenice dešťů_, ani rána či lépe pšouk, až se ozve z Arnoštkova klobouku.“
 
-Představení třetí
+## Představení třetí
 
   
 
@@ -1318,7 +1318,7 @@ Starý pán přistoupil pomalu k lanu, jež podél vidlice viselo dolů, a tu,
 
 Několik sousedů výtržníka napomenulo a Antonín s majorem k němu běželi chtějíce zabrániti nehodě, avšak dříve než mohli zachytiti ruku bláznovu nebo posměváčkovu, spadla veliká tyč kouzelníkova a za ní, vyraziv zděšený výkřik, střemhlav se řítil ubohý kouzelník.
 
-Nenasytní divákové
+## Nenasytní divákové
 
   
 
@@ -1326,7 +1326,7 @@ Při všech svatých! Tehdy někteří lidé, již měli Arnoštka za pošetile
 
 Bylo nutné, aby Antonín vlepil několika výrostkům po políčku a aby vdmychl smíškům pravé mínění. Bylo nutné, aby se dala do práce majorova hůl, jež jediná je s to, aby držela hlupáky na uzdě.
 
-Zvyk má železnou košili
+## Zvyk má železnou košili
 
   
 
@@ -1336,7 +1336,7 @@ Věru, nezbývalo mu než vzíti nohy na ramena a utíkati.
 
 Když byla příhodná chvíle a když mohl starý pán vyraziti, dal se do běhu a upaloval až k horní bráně Kotlářské, kde bylo stanoviště vozů. Lidé odsuzujíce horlivě jeho chybu běželi za ním až do těchto míst. Avšak nikoliv dále! Nikoliv dále, neboť navraceti se od zmíněné brány je starý městský zvyk, jenž se zachovává i při křesťanských pohřbech.
 
-Kouzelník přemohl bolest
+## Kouzelník přemohl bolest
 
   
 
@@ -1344,7 +1344,7 @@ Tlum kolem Arnoštka se rozptýlil teprve za dlouhou chvíli, a tu bylo zříti
 
 Za svých úspěchů, kdy se nad městem oháněl bidlem, kouzelník zpychl a tato pýcha učinila jej schopným, aby ustal, aby se vzpřímil a aby šel neohlížeje se ani napravo ani nalevo až k vozu, jehož otevřenými dvířky bylo viděti paní Kateřinu, jež štká majíc na očích šátek.
 
-Shon podobný shonu u mrtvoly
+## Shon podobný shonu u mrtvoly
 
   
 
@@ -1366,7 +1366,7 @@ Hřímalo, na nebi se křižovaly blesky a přece, kde kdo byl, vybíhal z dom
 
 Takto a jinak zděšeně hovoříce lidé se strkali lokty a koleny. Byla tam taková tlačenice, že ženské začaly ječeti a výskaly jako na voze o obžínkách. Byla tam taková tlačenice, že zástup vymáčkl nad svoje hlavy vzrušenou tvář starostovu, šlápl na lékaře a tísnil strážníka, jenž zdvíhal poboční zbraň v obnažené pravici, neboť byl bez kabátu.
 
-Hlas rozumu
+## Hlas rozumu
 
   
 
@@ -1386,7 +1386,7 @@ nevíte, jak je to dál?“
 
 „Nikoliv. Odpustil jsem knězi, a nepřeji mu jeho úrazu,“ řekl Antonín, „ale podivuji se spojitosti věcí, jež obráží moudrost opravdu kakraholtskou. Měl byste si z toho vzíti, majore, příklad a výstrahu.“
 
-Prostá srdce
+## Prostá srdce
 
   
 
@@ -1406,7 +1406,7 @@ Hospodář přisvědčoval, avšak sotva jeho žena odešla, uchopil Annin hrnec
 
 Tato slova dodal hospodář s velikým důrazem, avšak sotva je řekl, již mu bylo pospíchati do světnice. Utíkal, vrhl se skokem ke krajáči, a ponořiv ret do bílé smetany, předstíral, že vypil všechno, co chybí.
 
-Návrat do města
+## Návrat do města
 
   
 
@@ -1416,7 +1416,7 @@ Anna se vracela domů bez vzrušení a přešla pomezí hrůzné události tém
 
 Potom vystoupila po třech schůdcích a otevřela dveře.
 
-Annina rada
+## Annina rada
 
   
 
@@ -1424,31 +1424,31 @@ Kouzelník ležel pěkně na bříšku zvolna a pravidelně dýchaje. Jeho tvá
 
 „Můj prostomyslný názor jest, že brečíte příliš. Třesky plesky. Můj příbuzný si nepotrpí ani na vražedné skoky ani na pláč, který ho dopaluje. Vezměte si pěkně Arnoštkovy kalhoty, čepici a, chcete-li, masku. Já se obléknu do krátkých sukýnek a uspořádáme nové představení, neboť venku je lidí jako mraku. Vzhůru, oblékejte se a pospíchejte, než se rozejdou.“
 
-Odpověď
+## Odpověď
 
   
 
 „Já,“ pravila paní Důrová, ustávajíc v štkaní a povstavši, „já, správná měštka dbalá cti, bych měla obléci tyto kalhoty a před tváří nebe a před tváří svého lidu bych měla bráti podíl na šalbě a klamu, neboť ať tak dím, vaše představení je založeno a záleží v ubohých a směšných podvodech. Chvátala jsem, abych vás vytrhla z tísně, a jedli jste moje slepice a moje ryby. Slátala jsem košile a všechny cucky, jež věru nezasluhují jména prádla, ale teď je špižírna prázdna a není v ní nic jedlého. Moje ruce uvykly počestné práci a již se nedotknou hadříků, které čpí potem kotrmelců a líčidlem. Snad jste si, pane, všiml, že se křižuji, když klejete, a že se odvracím majíc se otříti o tuto kuběnu. U všech rohatých, přece mi nenamluvíte, že je to vaše neteř nebo sestřička! Chválabohu, uvykla jsem pletouc punčochu sedati před poctivým domem a budu tam sedati opět, neboť Antonín mě volá a kyne mi, abych se vrátila. Dvakrát či třikrát jsem ho viděla, jak stojí před vozem s tváří vzrušenou, bledý, rozháraný a hotov roztlouci na prášek a rozštípati na tříštičky tento vozík. Ha, ha, střezte se, aby nepřišel! Jen si myslete, že jsem omezena na úzké prostory tohoto chlívce! Jen si to myslete! Jen se spalte, vy strašpytle, pan Důra stojí za dveřmi!“
 
-Arnoštek nebyl překonán
+## Arnoštek nebyl překonán
 
   
 
 „Máte pravdu,“ odpověděl Arnoštek, „vzdálila jste se maličko od svého krbu v zájmu veřejného pořádku a trpíte pro svoje přesvědčení, ale teď se již sypte domů nebo vytáhnu hůl. Mé trpělivosti ubývá, jak roste vaše ctnost, a jestliže se do toho dám, ztluku vás a dám vám za vyučenou. Jděte po svých a děkujte bohu, že vás učinil opět řádnou a počestnou ženou bez výprasku.“
 
-Annino odění
+## Annino odění
 
   
 
 Když paní Důrová vyšla, Anna si oblékla krásné hedvábné nohavice, jež jí nesmírně slušely (neboť měla dokonalá stehna, drobná kolena, ušlechtilá lýtka, útlý kůrek a půvabnou nohu, pro niž král francouzský ještě před pěti sty lety by byl vedl válku až do vyhlazení lidu a zkázy krajin přilehlých k Španělsku), potom zapjavši všechny knoflíky a opásavši se pěkným páskem, na němž byli uměle vyobrazeni dva hadi, jak se navzájem požírají, Anna přistoupila k zrcátku a shledala, že je hezká.
 
-Zvrácený vkus
+## Zvrácený vkus
 
   
 
 „Mladší Dohnálková,“ pravila kouzelníkovi, „tančila kdysi v cirkuse ferdinandském s hruškou v ústech. Někteří lidé pokládali její vynalézavost za výstřední a opravdu se domnívám, že jí to neslušelo. Nejvhodnější jsou nahá růžová ústa bez ozdob, kdyby však nebylo vyhnutí, zvolila bych nikoliv hrušku, nýbrž růži, již držíme v zubech třenových, zlehka jí pohybujíce.“
 
-Zasmušilí měšťané
+## Zasmušilí měšťané
 
   
 
@@ -1456,7 +1456,7 @@ Městské obyvatelstvo, jsouc vesměs chmurné povahy, rádo prodlévá na míst
 
 Nešťastná místa jsou v uctivosti, a proto lidé stáli na náměstí pěkně v oblouku. Rozmlouvalo se o Arnoštkovi a o provaze. Vyskytovala se podivná a překvapující mínění, a jakkoliv měli všichni lež v ošklivosti (neboť to jim bylo vštípeno ve školách a důstojnými bohoslovci), zdálo se, že někteří nemluví pravdu. Říkali o Arnoštkovi, že je čert a chudinka, sprosťák, filuta a kulhavec, říkali, že se mu kolena stýkají po způsobu písmena X, a vzápětí, že přijeda na melounu, má nohy do O. Někteří pravili, že je simulant, jiní, že zemřel, a opět jiní, že by zasluhoval pětadvacet, aby byl mír v obci.
 
-Dobré divadlo
+## Dobré divadlo
 
   
 
@@ -1464,7 +1464,7 @@ Za těchto hovorů Anna vyšla z vozu, a vstoupivši na koberec opět rozestř
 
 V podivuhodném osvětlení, jež tvořilo jeskyni v nočních tem­notách, Anna se jala přecházeti, napodobujíc chůzi provazolezcovu. A jakkoliv chodila po ohavném koberci a jakkoliv provaz Arnoštkův se kýval devět sáhů nad ní, bylo v této chůzi veliké a svrchované umění.
 
-Poctivý úžas
+## Poctivý úžas
 
   
 
@@ -1472,7 +1472,7 @@ Poctivý úžas
 
 Ano, ano, ano. Tak se to patří. Na mou tě pravdu, ta holka se vznáší! Chtěl bych se vsadit, že to není obyčejná ženská a že se v ničem nepodobá mé Verunce, která vyniká spořivostí, ale má ploské nohy.“
 
-Tak se to sluší
+## Tak se to sluší
 
   
 
@@ -1480,7 +1480,7 @@ Když se Anna sdostatek naprocházela, jala se zlehka otáčivými pohyby nazna�
 
 Nakonec jí pánové nasypali veliké množství peněz do Arnoštkova klobouku. Bylo mezi nimi dost měďáků, ale zaplať pánbůh, malé ryby jsou také ryby.
 
-Kořeny umění hereckého
+## Kořeny umění hereckého
 
   
 
@@ -1494,7 +1494,7 @@ Jsem pravdě zavázán, abych prohlásil,“ dodal Antonín snímaje klobouk, �
 
 „O tom,“ odpověděl major, „nepochybuji a zdá se mi, že jste měl pravdu hovoře i o funkcích tělesných. Vídal jsem vojáky, jejichž nohy jsou spíše důkladné než krásné, a přece, když vykročili, jejich střevíce lahodily mému oku a na pochodech zvuk kročejů nás měl k zpěvu.“
 
-Příhoda s rukávem
+## Příhoda s rukávem
 
   
 
@@ -1502,7 +1502,7 @@ Sotva to dořekl, Anna se naposledy uklonila a chtěla obléci plášť, jehož
 
 Major, spatřiv vlající rukávec a znamenaje, že není vhodné, aby se Anna oblékala jako služka, která pospíchá k dostavníku, seskočil z okraje kašny, spěchal a podržel kabátec, usnadňuje tak Anně krušnou chvíli. Potom jí podal rámě a odvedl ji za vůz, kde spolu rozprávěli po pět minut o některých starých citech lidských, dotkše se jen letmo pořadových cviků a pochodování.
 
-Mistr a Kateřina
+## Mistr a Kateřina
 
   
 
@@ -1524,7 +1524,7 @@ Ticho,“ dodal, když paní chtěla odpovídati, „připouštím, abys zůstal
 
 Potom si mistr vykasal rukávy a vykonal, co naznačil.
 
-Rozmrzelý kouzelník
+## Rozmrzelý kouzelník
 
   
 
@@ -1532,7 +1532,7 @@ Kolem půlnoci, kdy se spáči obracejí z boku na bok, hořela ještě v Arno
 
 „Kateřina Důrová,“ řekl si, „je domýšlivá opice. Abbé je osel. Antonín si to odskáče doma, ale major je nebezpečný chlap.“
 
-Výprava
+## Výprava
 
   
 
@@ -1540,7 +1540,7 @@ Výprava
 
 Šel opatrně cítě škubání hněvu a bolest v bedrech. Šel ulicí Hálkovou, Hradební a Dlážděnou kulhaje jako škarohlíd až před majorův dům, kde usedl pod mladý doubek. (Bylo jich tu hojnost, neboť od ulice až k domovním dveřím vedlo stromořadí, jež vzroste a stane se velikolepým podle majorova vkusu.) Arnoštkovi bylo příjemné seděti, a aby jeho hněv nebyl vystřídán náladou smírnou a aby si zachoval prudkost, kouzelník se štípal do stehen. Přitom se díval mezi listovím na hvězdy, ale protože nebyl pobožnůstkář, aniž čítal dobrých knih, bylo mu to jedno.
 
-Souboj
+## Souboj
 
   
 
@@ -1562,7 +1562,7 @@ Kouzelník řekl, že udělá, co bude chtíti, a Anna, patříc z jednoho mu�
 
 Nakonec jsouc postrašena a plna obdivu odešla s Arnoštkem jako panna, jež podpírá hrdinu slavkovského. Neboť vznešenost, která se nerve s chudáky, není dostupná ženskému rozumu.
 
-Pravá přátelství
+## Pravá přátelství
 
   
 
@@ -1576,7 +1576,7 @@ Nazítří ráno abbé si upravil obvazek a šel na Důrovu plovárnu.
 
 Antonín pokrčil rameny a neodpověděl.
 
-Epizoda o smiřlivých a přísných lidech
+## Epizoda o smiřlivých a přísných lidech
 
   
 
@@ -1588,13 +1588,13 @@ Jiný muž, je-li vyučen právu, v pláči chystá vražedníkovi provaz, a o
 
 Ukrutný soudce a spravedlivý kominík se nepoznají, ani kdyby se sešli na kuželkách. Ale lid na ně ukazuje stejným prstem řka: hleďte dva potrhlé.
 
-Epizoda se končí
+## Epizoda se končí
 
   
 
 Mistr, abbé a major sloužíce bez výhrady svým názorům a disciplínám mohli se navzájem shodnouti. Ale ti, kdož vyznávají poměrné týdenní pravdy a milují hned tu, hned onu práci jen případ od případu, nemohou jich pochopiti. Mistr, abbé a major jsou sami.
 
-Další rozprava
+## Další rozprava
 
   
 
@@ -1606,7 +1606,7 @@ Ticho, jež nastalo po kanovníkově otázce, plynulo jako Orše. Major si svlé
 
 „Dnes ráno,“ odpověděl major, „v stromořadí doubků mě kouzelník sešvihal španělkou.“
 
-Věci nevídané
+## Věci nevídané
 
   
 
@@ -1620,7 +1620,7 @@ Když vyprázdnili sklenice, kanovník se zamyslil a řekl:
 
 „Antonínův zájem je dosti široký. Proč mu Anna před ostatními nedala přednosti?“
 
-Vše uplývá
+## Vše uplývá
 
   
 
@@ -1628,7 +1628,7 @@ Vše uplývá
 
 Potom, nehodlaje již mluviti o Anně, jal se majorovi ukazovati několik cviků, které ztužují svalovinu levého srdce. Abbé otevřel knihu, a když byl mistr dokončil výklad, dal se do své hry i major kroutě zápěstím a zachovávaje důstojné mlčení.
 
-Co se Kateřině líbí a co odsuzuje
+## Co se Kateřině líbí a co odsuzuje
 
   
 
