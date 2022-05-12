@@ -14,7 +14,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - rozmarne_leto_002.html
+  - promo.html
   - rozmarne_leto_005.html
   - colophon.html
 tocBase:
