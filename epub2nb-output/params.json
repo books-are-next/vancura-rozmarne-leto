@@ -50,7 +50,7 @@
             "filename": "rozmarne_leto_002.md",
             "xhtml": "rozmarne_leto_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hiddenTitle": false,
@@ -208,6 +208,6 @@
       "user": "books-are-next",
       "repo": "vancura-rozmarne-leto"
     },
-    "generatedAt": 1648548513582
+    "generatedAt": 1652351317783
   }
 }

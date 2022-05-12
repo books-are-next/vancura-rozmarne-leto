@@ -2,12 +2,14 @@
 title: Tiráž
 ---
 
-***
-
-Rozmarné léto
-
-Vladislav Vančura
-
+**Vladislav Vančura    
+Rozmarné léto**  
+Ilustrace na obálce z volných zdrojů  
+Redakce Markéta Teuchnerová  
+Vydala Městská knihovna v Praze  
+Mariánské nám. 1, 115 72 Praha 1  
+V MKP 2. elektronické vydání  
+1. vydání z 12. 5. 2022.
 
 ***
 
@@ -23,52 +25,9 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
   
 
-Verze 1.0 z 18. 12. 2020.
 
   
 
   
 
 ![image004.jpg](./resources/image004_fmt.jpeg)
-
-
-***
-
-**Vladislav Vančura  
-Rozmarné léto**
-
-  
-
-Ilustrace na obálce z volných zdrojů
-
-  
-
-Redakce Markéta Teuchnerová
-
-  
-
-Vydala Městská knihovna v Praze
-
-  
-
-Mariánské nám. 1, 115 72 Praha 1
-
-  
-
-V MKP 2. elektronické vydání
-
-  
-
-Verze 1.0 z 18. 12. 2020
-
-  
-
-ISBN 978-80-274-0848-1 (epub)
-
-  
-
-ISBN 978-80-274-0849-8 (pdf)
-
-  
-
-ISBN 978-80-274-0850-4 (prc)

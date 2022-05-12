@@ -1,22 +1,28 @@
 {
-  "author": "Vladislav Vančura",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "vancura-rozmarne-leto-32a26a0",
-  "languagecode": "cs",
-  "modified": "2021-12-01T21:20:09.509Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Rozmarné léto",
-  "revision": "32a26a0",
+  "author": "Vladislav Vančura",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "vancura-rozmarne-leto-17d35e4",
+  "revision": "17d35e4",
+  "readingOrder": [
+    "promo.html",
+    "rozmarne_leto_005.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Tue Mar 29 2022 10:09:31 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1648548571458
+    "date": "Thu May 12 2022 10:36:22 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351782166
   },
   "documents": [
     {
-      "title": "Rozmarné léto",
-      "file": "rozmarne_leto_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,15 +30,7 @@
       "order": 0,
       "prev": null,
       "next": "rozmarne_leto_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Rozmarné léto",
@@ -42,7 +40,7 @@
       "ideas": 708,
       "role": "chapter",
       "order": 1,
-      "prev": "rozmarne_leto_002.html",
+      "prev": "promo.html",
       "next": "colophon.html",
       "toc": [
         {
@@ -847,11 +845,11 @@
       ]
     },
     {
-      "title": "Tiráž • Rozmarné léto",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 131,
-      "chars": 882,
-      "ideas": 21,
+      "words": 113,
+      "chars": 740,
+      "ideas": 16,
       "role": "colophon",
       "order": null,
       "prev": "rozmarne_leto_005.html",
@@ -869,9 +867,9 @@
   ],
   "totals": {
     "all": {
-      "words": 18442,
-      "chars": 112756,
-      "ideas": 733
+      "words": 18424,
+      "chars": 112614,
+      "ideas": 728
     },
     "chapters": {
       "words": 18305,
