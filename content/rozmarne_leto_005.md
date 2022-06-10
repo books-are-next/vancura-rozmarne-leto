@@ -3,6 +3,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 ## Staré časy
 
 Mnozí odvážlivci, když se octli na počátku velikolepého měsíce června, usedají do stínu platanů a jejich urputné vzezření se stává mírným. Hle, větvoví a vysoký sloupec rtuti, jež se zdvíhá a opět klesá, připomínajíc oddech spáče. Hle, kyv slunečníku a tato tvář, kdysi hrůzná. Ať poshoví nos a odulý ret, jenž vyrazil z obličeje tak prudce, ať se mírní, neboť, probůh, město je klidné.
@@ -505,11 +507,15 @@ Tak jest,“ dodal, když jakési děvče přešlo přes cestu tří přátel vz
 
 Tu si přátelé podali ruce a zachovávajíce krok, šli, jako se chodívalo, dokud platilo dobré pravidlo:
 
-  
+</section>
+
+<section>
 
 _levá, levá, levá!_
 
-  
+</section>
+
+<section>
 
 Antonín kráčel uprostřed. Antonín dosti veliký, aby zhášel lucerny bez žebříku, nepřehlédnutelný, vzpupný pro své rozměry, mluvka, nedočkavý a bez peněz. Antonín, jemuž mlčení nebylo příkazem, jal se tu uvažovati o kouzelnících, přepínaje trpělivost svých přátel a hrubě se mýle v podstatných věcech.
 
@@ -1198,11 +1204,15 @@ Takto a jinak zděšeně hovoříce lidé se strkali lokty a koleny. Byla tam 
 
 „Mluvím-li teď s vámi, majore,“ děl Antonín, „je to hlavně proto, abych opět slyšel lahodné zvuky rozumu. Bojím se, že tento útrpný zástup se zbláznil a že žvástá. Kdysi jsem znal několik veršů, jež se hodí říkati za okolností pohnutých a hrůzných, pohříchu neuchoval jsem u své paměti více než slovíčka, jež znějí takto:
 
-  
+</section>
+
+<section>
 
 _S Vaňkem se raď –_
 
-  
+</section>
+
+<section>
 
 nevíte, jak je to dál?“
 
@@ -1425,3 +1435,5 @@ Jak je krásné strojiti dějství od počátku do konce a opakovati je znovu a
 Lampy! Kouzelný klobouk! A strmý provaz! Vizte mě, divákové, jak oděna jsouc trikotem flanderským podpírám Arnoštka, neboť je to slaboučký kouzelník.
 
 Jak je to krásné. Jak je krásné býti kadeřavým.“
+
+</section>
