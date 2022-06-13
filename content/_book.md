@@ -13,6 +13,7 @@ meta:
   modified: '2021-12-01T21:20:09.509Z'
   publisherShort: mkp
   edition: beletrie
+  isbn: 978-80-274-2467-2
 readingOrder:
   - promo.html
   - rozmarne_leto_005.html
