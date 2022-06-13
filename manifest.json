@@ -8,16 +8,16 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "vancura-rozmarne-leto-617b589",
-  "revision": "617b589",
+  "identifier": "vancura-rozmarne-leto-6e32344",
+  "revision": "6e32344",
   "readingOrder": [
     "promo.html",
     "rozmarne_leto_005.html",
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 12:13:27 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654949607633
+    "date": "Mon Jun 13 2022 21:32:24 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655155944415
   },
   "documents": [
     {
@@ -847,9 +847,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 76,
-      "chars": 534,
-      "ideas": 7,
+      "words": 107,
+      "chars": 704,
+      "ideas": 15,
       "role": "colophon",
       "order": null,
       "prev": "rozmarne_leto_005.html",
@@ -867,9 +867,9 @@
   ],
   "totals": {
     "all": {
-      "words": 18387,
-      "chars": 112408,
-      "ideas": 719
+      "words": 18418,
+      "chars": 112578,
+      "ideas": 727
     },
     "chapters": {
       "words": 18305,
