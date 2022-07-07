@@ -17,7 +17,7 @@ meta:
 readingOrder:
   - promo.html
   - rozmarne_leto_005.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

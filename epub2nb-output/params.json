@@ -61,7 +61,7 @@
             "filename": "rozmarne_leto_003.md",
             "xhtml": "rozmarne_leto_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
@@ -71,7 +71,7 @@
             "filename": "rozmarne_leto_004.md",
             "xhtml": "rozmarne_leto_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
@@ -92,7 +92,7 @@
             "filename": "rozmarne_leto_006.md",
             "xhtml": "rozmarne_leto_006.xhtml",
             "id": 5,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
@@ -209,6 +209,6 @@
       "user": "books-are-next",
       "repo": "vancura-rozmarne-leto"
     },
-    "generatedAt": 1655979967125
+    "generatedAt": 1657182623628
   }
 }
