@@ -8,16 +8,16 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "vancura-rozmarne-leto-aa093b7",
-  "revision": "aa093b7",
+  "identifier": "vancura-rozmarne-leto-c2f9aad",
+  "revision": "c2f9aad",
   "readingOrder": [
     "promo.html",
     "rozmarne_leto_005.html",
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:32:10 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658413930046
+    "date": "Thu Sep 29 2022 21:37:47 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664487467799
   },
   "documents": [
     {
